@@ -2,8 +2,8 @@
 
 import { useState } from 'react';
 
-const PHONE_DISPLAY = '(405) 000-0000';
-const PHONE_LINK = 'tel:4050000000';
+const PHONE_DISPLAY = '(405) 658-1349';
+const PHONE_LINK = 'tel:4056581349';
 const EMAIL = 'sporteesscreenprintingllc@gmail.com';
 
 const galleryImages = [
